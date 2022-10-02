@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sherin reda</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **.NET development track at ITI**
-
 - 💬 Ask me about **Redux,React,JS,HTML,CSS,SQL,Bootstrap**
 
 - 📫 How to reach me **Sherin.reda15@gmail.com**
