@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm sherin</h1>
+<h1 align="center">Hi 👋, I'm Sherin</h1>
 <p align="center">ITI student in the 9 months scholarship program Professional Web Development & BI track [full stack using .NET Framework], i have experience with frontend development using React.js framework and that was my responsibility in my previous work ,and i am familiar with backend development using node.js and i am still learning.</p>
 
 - 💬 Ask me about **Redux,React,JS,CSS,HTML**
