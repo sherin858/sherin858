@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Food ordering App<br>👯 I’m looking to collaborate on I'm open to collaborating on Projects working with Asp.Net Core , Angular , React.js<br>🌱 I’m currently learning ASP.NET Core web APIs , Angular<br>💬 contact me sherin.reda15@gmail.com
+🔭 I’m currently working on Food ordering App<br>👯 I'm open to collaborating on Projects working with Asp.Net Core , Angular , React.js<br>🌱 I’m currently learning ASP.NET Core web APIs , Angular<br>💬 contact me sherin.reda15@gmail.com
 
 
 ## 🌐 Socials:
